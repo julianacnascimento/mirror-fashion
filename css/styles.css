@@ -1,0 +1,23 @@
+body {
+    font-family: "Arial", "Helvetica", sans-serif;
+}
+
+p{
+    text-align: left;
+    line-height:; /* tamanho da altura de cada linha */
+    letter-spacing: 0px; /* tamanho do espaço entre cada letra */
+    word-spacing: 2px; /* tamanho do espaço entre cada palavra */
+    text-indent: 30px; /* tamanho da margem da primeira linha do texto*/
+}
+h1 {
+    font-family: serif;
+    background-image: url(sobre-background.jpg);
+}
+
+h2 {
+    font-family: sans-serif;
+}
+
+p {
+    font-family: monospace;
+}
